@@ -9,7 +9,9 @@ I've build a some PowerBI documents that can be used to compare a SQL or file ba
 The templates could be easily adjusted to work with other data sets as long as the resulting data matched those in QueryData1 & 2
 
 Sample version is also availble on the Powerbi community forum
+
 https://community.powerbi.com/t5/Data-Stories-Gallery/PowerBI-Data-Comparison-Tool/td-p/658314
+
 Note the Filters are not currently show on the PowerBI server.
 
 ## Features
