@@ -21,6 +21,10 @@ I've build some PowerBI documents that can be used to compare a SQL or file base
 - Identify Missing data or different values
 - Number, string length or datetime Differences
 
+PowerBI Community Entry
+
+https://community.powerbi.com/t5/Data-Stories-Gallery/PowerBI-Data-Comparison-Tool/m-p/658314
+
 ## How to use the Tool
 
 ### File based Comparison
